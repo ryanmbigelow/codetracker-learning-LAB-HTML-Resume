@@ -1,3 +1,31 @@
 body {
   background-color: #B2AC88;
 }
+
+h1 {
+  font-size: 30px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+}
+
+#pancho {
+  font-family: 'Courier New', Courier, monospace;
+  border: #b2889f solid 10px;
+  margin: 30px;
+}
+
+#hive {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  border: #b29588 dotted 15px;
+  margin: 30px;
+}
+
+#ktf {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  border: #88afb2 dashed 5px;
+  margin: 30px;
+}
+
+.header {
+  color: #3a3c80
+}
